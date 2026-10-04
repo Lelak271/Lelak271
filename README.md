@@ -27,40 +27,13 @@ Main topics:
 
 [View Toltech →](https://github.com/Lelak271/Toltech)
 
-## Technical Interests
-
-- Mechanical tolerancing
-- 3D tolerance analysis
-- Variability analysis
-- Kinematic modelling
-- CAD 
-- Engineering software
-- C# / .NET
-- WPF / MVVM
-- Computational mechanics
 
 ## Technologies
 
 `C#` `C#/.NET` `.NET 8` `WPF` `MVVM` `SQLite` `FreeCAD`
-
-## Projects
-
-### Toltech
-
-**Toltech** is a software project dedicated to 3D tolerance analysis and
-variability calculation for complex mechanical assemblies.
-
-
-[View Toltech on GitHub →](...)
-
-### Other projects
-
-...
 
 ## Contact
 
 Interested in Toltech, 3D tolerance analysis or engineering software?
 
 - GitHub: Open an issue on the relevant repository
-
-...
