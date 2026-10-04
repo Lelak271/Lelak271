@@ -12,25 +12,42 @@ kinematic analysis and tolerance/variability calculations.
 
 ## Toltech
 
-**Toltech** is a desktop application for 3D tolerance analysis of complex
-mechanical assemblies.
+**Toltech** is an **open-source desktop application for 3D Tolerancing,
+tolerance analysis and variability analysis of complex mechanical assemblies.**
+
+The public version includes a **Mock Solver**, allowing users to explore the
+application, its modelling workflow and its calculation interfaces without
+access to the production calculation engine.
 
 Main topics:
 
 - 3D assembly modelling
+- Tolerancing and tolerance analysis
 - Kinematic and isostatic modelling
 - Small-displacement torsors
-- Tolerance and variability analysis
+- Variability analysis
 - Graph-based assembly modelling
 - CAD integration
 - Engineering calculation software
 
+The production **Toltech Solver** is currently maintained in a private
+repository. It contains the actual calculation engine and methodology used
+for tolerance and variability analysis.
+
+For more information about the private solver, its capabilities or potential
+collaboration, please contact me.
+
 [View Toltech →](https://github.com/Lelak271/Toltech)
+
+**#Tolerancing #ToleranceAnalysis #VariabilityAnalysis #3DAssembly**
 
 
 ## Technologies
 
-`C#` `C#/.NET` `.NET 8` `WPF` `MVVM` `SQLite` `FreeCAD`
+`C#` `.NET 8` `WPF` `MVVM` `SQLite` `FreeCAD`
+
+I am a self-taught developer with a mechanical engineering and tolerancing
+background, learning software development through the development of Toltech.
 
 ## Contact
 
